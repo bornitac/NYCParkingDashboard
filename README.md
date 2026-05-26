@@ -50,4 +50,4 @@ The workbook contains 6 interactive dashboards covering:
 ## 🔗 View the Dashboard
 
 Explore all 6 dashboards live on Tableau Public:
-👉 https://public.tableau.com/app/profile/bornita.chowdhury/viz/NYCParkingComplaintsDashboard
+https://public.tableau.com/app/profile/bornita.chowdhury/viz/NYCParkingComplaintsDashboard
