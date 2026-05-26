@@ -1,6 +1,6 @@
 # NYC Parking Complaints & Traffic Analysis
 
-An interactive Tableau dashboard analyzing NYC parking complaints, traffic incidents, and parking meter data to identify patterns across all five boroughs. Built using merged public datasets from NYC Open Data.
+An interactive Tableau dashboard analyzing NYC parking complaints, traffic incidents, and parking meter data to identify patterns across all five boroughs. Built using merged public datasets from NYC Open Data and Kaggle.
 
 🔗 **Live Dashboard:** https://public.tableau.com/app/profile/bornita.chowdhury/viz/NYCParkingComplaintsDashboard
 
@@ -30,15 +30,20 @@ The workbook contains 6 interactive dashboards covering:
 ## 🛠️ Built With
 
 - **Tableau** – data visualization and interactive dashboard design
-- **NYC Open Data** – 311 complaints, traffic incidents, and meter datasets
+- **NYC Open Data & Kaggle** – public datasets for complaints, traffic, and meters
 
 ---
 
 ## 📂 Data Sources
 
-- **NYC 311 Service Requests** — NYC Open Data
-- **Traffic Incidents** — NYC Open Data
-- **Parking Meter Locations and Status** — NYC Open Data
+- **NYC 311 Resolution Satisfaction Survey** — NYC Open Data
+  🔗 https://data.cityofnewyork.us/City-Government/311-Resolution-Satisfaction-Survey/5ijn-vbdv/about_data
+
+- **NYC Traffic Accidents 2020** — Kaggle
+  🔗 https://www.kaggle.com/datasets/mysarahmadbhat/nyc-traffic-accidents
+
+- **New York Parking Meters Dataset** — Kaggle
+  🔗 https://www.kaggle.com/datasets/nathaniellybrand/new-york-parking-meters-dataset
 
 ---
 
